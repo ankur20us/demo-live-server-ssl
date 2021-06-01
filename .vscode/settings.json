@@ -4,8 +4,8 @@
   "liveServer.settings.CustomBrowser": "chrome",
   "liveServer.settings.https": {
     "enable": true,
-    "cert": "/Users/abc/Desktop/AV/Downloads/Personal/practice/demo-live-server/https/localhost.pem",
-    "key": "/Users/abc/Desktop/AV/Downloads/Personal/practice/demo-live-server/https/localhost.key",
-    "passphrase": "password"
+    "cert": "<PATH TO FOLDER>/localhost.pem",
+    "key": "<PATH TO FOLDER>/localhost.key",
+    "passphrase": "<passphrase you used to create the pair>"
   }
 }
